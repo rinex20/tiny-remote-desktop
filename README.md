@@ -1,4 +1,5 @@
 # Alpine docker container image with "headless" VNC/RDP environments
+# add linux/arm64 support
 
 Installed with the following components:
 
